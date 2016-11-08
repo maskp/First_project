@@ -1,0 +1,126 @@
+
+
+body{
+          background: url('https://static.brusheezy.com/system/resources/previews/000/014/115/non_2x/space-stock-background-photoshop-textures.jpg');
+          background-size: cover;
+        }
+
+#instructions{background:black;
+                      opacity:.5;
+                      color:white;
+                      display:none;
+                      width:400px;}
+
+
+p , span{color:white;}
+
+#wrapper1 p{display:inline-block;}
+
+.opHealth{float:right;
+                display:inline-block;
+              }
+
+    #yourImg{
+          opacity;.8;
+          width:400px;
+          height:500px;
+          display:inline-block;
+          float:left;
+          margin-top:100px;
+          position:absolute;
+          }
+
+
+
+  .uClassimg{
+          background: url('running_vnm1.png') no-repeat;
+          background-size:cover;
+
+      }
+
+  .opClassimg{
+       background:url('g_def1.png') no-repeat;
+       background-size: 100% 100%;
+     }
+
+
+
+
+
+    #opsImg{opacity;.1;
+        width:300px;
+        height:500px;
+        display:inline-block;
+        transform:rotateY(180deg);
+        margin-left:1193px;
+        margin-top: 100px;
+        /*animation:rl .5s infinite;*/
+      }
+
+/*venom class*/
+    .vk{
+
+      background:url(vnm_kick.png)no-repeat;
+      background-size:100% 100%;
+
+    }
+    .vp{
+    background:url('vnm_punch.png')no-repeat;
+    background-size: 100% 100%;
+    }
+    .vh{background:url('vnm_hit.png') no-repeat;
+          background-size:100% 100%;
+        }
+
+    .vd{background:url('vnm_dead.png') no-repeat;
+          background-size:100% 100%;
+          transform: translateY(400px);
+        }
+
+    .vr{background:url('vnm_run.png');
+          background-size:100% 100%;}
+
+    .vb{background:url('vnm_back.png');
+          background-size: 100% 100%;}
+
+    .vw{background:url('vnm_w.gif');
+          background-size: 100% 100%;}
+
+
+
+/*girl class*/
+
+    .cp{  background:url('g_punch.png') no-repeat;
+            background-size: 100% 100%;
+          }
+
+    .ck{ background:url('g_kick.png') no-repeat;
+            background-size: 100% 100%}
+
+    .cb{background:url('g_back.png') no repeat;
+          background-size: 100% 100%}
+
+    .ch{  background:url('g_hit.png') no-repeat;
+            background-size: 100% 100%;}
+
+    .cd{  background:url('g_dead.png') no-repeat;
+            background-size: 100% 100%;}
+
+    .cw{background:url('g_winn.gif') no-repeat;
+          background-size: 100% 100%;
+        }
+
+    .cr{background:url('g_def2.png') no-repeat;
+          background-size: 100% 100%;}
+
+  /*style for the divs and buttons*/
+
+  #commentary{background:black;width:50%;height:150px;opacity:.5;color:white;font-size: 40px;text-align:center;display:none;}
+  #commentary button{width:80px; height:50px;font-size: 20px}
+  #btn{color:black;}
+  #start{width:100px;height:100px;opacity: .4;font-size:25px;font-family: monospace;border-radius: 50%;}
+  #start:hover{opacity:.9;}
+  #btn:hover{background:black;color:white;}
+  .opHealth{font-size:20px;font-family: monospace;}
+  #health{font-family: monospace;font-size: 20px;}
+
