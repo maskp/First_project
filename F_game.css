@@ -20,7 +20,7 @@ p , span{color:white;}
                 display:inline-block;
               }
 
-    #yourImg{
+#yourImg{
           opacity;.8;
           width:400px;
           height:500px;
@@ -32,13 +32,13 @@ p , span{color:white;}
 
 
 
-  .uClassimg{
+.uClassimg{
           background: url('running_vnm1.png') no-repeat;
           background-size:cover;
 
       }
 
-  .opClassimg{
+.opClassimg{
        background:url('g_def1.png') no-repeat;
        background-size: 100% 100%;
      }
@@ -47,7 +47,7 @@ p , span{color:white;}
 
 
 
-    #opsImg{opacity;.1;
+#opsImg{opacity;.1;
         width:300px;
         height:500px;
         display:inline-block;
@@ -115,12 +115,35 @@ p , span{color:white;}
 
   /*style for the divs and buttons*/
 
-  #commentary{background:black;width:50%;height:150px;opacity:.5;color:white;font-size: 40px;text-align:center;display:none;}
-  #commentary button{width:80px; height:50px;font-size: 20px}
+  #commentary{background:black;
+                          width:50%;
+                          height:150px;
+                          opacity:.5;
+                          color:white;
+                          font-size: 40px;
+                          text-align:center;
+                          display:none;
+                        }
+  #commentary button{width:80px;
+                                    height:50px;
+                                    font-size: 20px}
   #btn{color:black;}
-  #start{width:100px;height:100px;opacity: .4;font-size:25px;font-family: monospace;border-radius: 50%;}
+
+  #start{width:100px;
+            height:100px;
+            opacity: .4;
+            font-size:25px;
+            font-family: monospace;
+            border-radius: 50%;}
+
   #start:hover{opacity:.9;}
-  #btn:hover{background:black;color:white;}
-  .opHealth{font-size:20px;font-family: monospace;}
-  #health{font-family: monospace;font-size: 20px;}
+
+  #btn:hover{background:black;
+                    color:white;}
+
+  .opHealth{font-size:20px;
+                  font-family: monospace;}
+
+  #health{font-family: monospace;
+              font-size: 20px;}
 
