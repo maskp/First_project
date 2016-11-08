@@ -1,4 +1,4 @@
- var hit = new Audio('hit.mp3')
+
 $(function() {
     //console.log($('#yourImg img.uClassimg'));
     p1wins = []
