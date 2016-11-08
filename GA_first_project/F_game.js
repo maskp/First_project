@@ -1,10 +1,9 @@
- var hit = new Audio('hit.mp3')
+
 $(function() {
-    //console.log($('#yourImg img.uClassimg'));
+   
     p1wins = []
     p2wins = []
 
-    //  var hit = new Audio('hit.mp3')
 
 
     //page refresh
@@ -64,14 +63,14 @@ $(function() {
     function p1punch() {
         $(p1).addClass('vp');
         $(p2).addClass('ch');
-        hit.play();
+        
     }
 
     //p1 kick function
     function p1kick() {
         $(p1).addClass("vk");
         $(p2).addClass('ch');
-        hit.play()
+        
 
     }
 

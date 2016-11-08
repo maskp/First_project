@@ -1,14 +1,14 @@
 # First_project
-used jquery to manipulate the dom
+Used jquery to manipulate the document object model<br/>
 A basic two player fighting game
-Character are Venom and unknown girl
-controls for player 1 are :
-                                        1. left and right arrow keys
-                                        2. 'A' and 'D' keys to punch and kick respectively.
+Character are Venom and Nameless girl
+controls for player 1 are :<br/>
+                                        1. left and right arrow keys <br/>
+                                        2. 'A' and 'D' keys to punch and kick respectively.<br/>
 
-controls for player 2 are:
-                                        1. 'j' and 'l' keys to move left and right
-                                        2. 'I' key to kick and 'o' key to punch
+controls for player 2 are:<br/>
+                                        1. 'j' and 'l' keys to move left and right <br/>
+                                        2. 'I' key to kick and 'o' key to punch  <br/>
 
 downloaded sprites from: https://www.spriters-resource.com/snes/supersf2
 
