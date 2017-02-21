@@ -1,7 +1,8 @@
 
 
 body{
-          background: url('https://static.brusheezy.com/system/resources/previews/000/014/115/non_2x/space-stock-background-photoshop-textures.jpg');
+          background: url('https://static.brusheezy.com/system/resources/previews/000/014/115/non_2x/space-stock-background-photoshop-textures.jpg') no-repeat;
+          
           background-size: cover;
         }
 
