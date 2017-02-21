@@ -52,7 +52,7 @@ p , span{color:white;}
         height:500px;
         display:inline-block;
         transform:rotateY(180deg);
-        margin-left:1193px;
+        margin-left:80%;
         margin-top: 100px;
         /*animation:rl .5s infinite;*/
       }
